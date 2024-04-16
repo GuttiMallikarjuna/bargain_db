@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bargain_db/static/css/main.5efaa6bd.css",
-    "main.js": "/bargain_db/static/js/main.d2b0b41c.js",
+    "main.js": "/bargain_db/static/js/main.1172af90.js",
     "static/media/young-woman-with-shopping-bags-beautiful-dress-hat-min.jpg": "/bargain_db/static/media/young-woman-with-shopping-bags-beautiful-dress-hat-min.4be70a4b528d60c8079e.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/lehanga.jpeg": "/bargain_db/static/media/lehanga.f0fcc11312e0773bce7c.jpeg",
@@ -10,7 +10,6 @@
     "static/media/books.png": "/bargain_db/static/media/books.97890badb8764eb1b9c3.png",
     "static/media/fontawesome-webfont.eot": "/bargain_db/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fashion-model-kids.jpg": "/bargain_db/static/media/fashion-model-kids.bd2dce51d4006b6d83a9.jpg",
     "static/media/women-desktop22.jpg": "/bargain_db/static/media/women-desktop22.c62497faf6fb3fc54c65.jpg",
     "static/media/women-mobile222.png": "/bargain_db/static/media/women-mobile222.ac61f10923b34718bd2d.png",
     "static/media/paypal.webp": "/bargain_db/static/media/paypal.045797956258fb2c8e42.webp",
@@ -25,6 +24,7 @@
     "static/media/kids-tablet.jpg": "/bargain_db/static/media/kids-tablet.023e4a57efbfada142b9.jpg",
     "static/media/highendcouture.jpg": "/bargain_db/static/media/highendcouture.11eadfcb6cca3ff474b1.jpg",
     "static/media/boy.webp": "/bargain_db/static/media/boy.1d4d25e68a05a44d5e56.webp",
+    "static/media/kids22.jpeg": "/bargain_db/static/media/kids22.16828f066233ceff5f84.jpeg",
     "static/media/visa.webp": "/bargain_db/static/media/visa.c14406d4f1be3210aa89.webp",
     "static/media/books-tablet.jpg": "/bargain_db/static/media/books-tablet.87e0dd3b5d2782706e17.jpg",
     "static/media/dresses.webp": "/bargain_db/static/media/dresses.605d2d50fa2ad8f88293.webp",
@@ -39,10 +39,10 @@
     "static/media/revicons.woff": "/bargain_db/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/bargain_db/index.html",
     "main.5efaa6bd.css.map": "/bargain_db/static/css/main.5efaa6bd.css.map",
-    "main.d2b0b41c.js.map": "/bargain_db/static/js/main.d2b0b41c.js.map"
+    "main.1172af90.js.map": "/bargain_db/static/js/main.1172af90.js.map"
   },
   "entrypoints": [
     "static/css/main.5efaa6bd.css",
-    "static/js/main.d2b0b41c.js"
+    "static/js/main.1172af90.js"
   ]
 }
