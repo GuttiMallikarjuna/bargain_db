@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bargain_db/static/css/main.031d0206.css",
-    "main.js": "/bargain_db/static/js/main.23cfebcf.js",
+    "main.js": "/bargain_db/static/js/main.6a34de00.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/books.png": "/bargain_db/static/media/books.97890badb8764eb1b9c3.png",
     "static/media/necklace.webp": "/bargain_db/static/media/necklace.ac8ddad22f8564bbde61.webp",
@@ -14,12 +14,12 @@
     "static/media/fontawesome-webfont.eot": "/bargain_db/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/dresses.webp": "/bargain_db/static/media/dresses.3127eb8cdf7159fe349b.webp",
-    "static/media/womencarousel.jpg": "/bargain_db/static/media/womencarousel.c58850b6bf5e15c9799d.jpg",
     "static/media/paypal.webp": "/bargain_db/static/media/paypal.045797956258fb2c8e42.webp",
     "static/media/earrings.jpg": "/bargain_db/static/media/earrings.f34aac4ed2a557b79e33.jpg",
     "static/media/fiction.webp": "/bargain_db/static/media/fiction.69e69f0a80782561b9da.webp",
     "static/media/highendcouture.webp": "/bargain_db/static/media/highendcouture.2d125a4ac79748982086.webp",
     "static/media/jewelry.jpg": "/bargain_db/static/media/jewelry.65baa32bbf6fb389b41e.jpg",
+    "static/media/womencarousel.jpg": "/bargain_db/static/media/womencarousel.48a0f360a76adb6e7b04.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/drama.webp": "/bargain_db/static/media/drama.eaa52f10b657ab04f6cf.webp",
@@ -41,10 +41,10 @@
     "static/media/revicons.woff": "/bargain_db/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/bargain_db/index.html",
     "main.031d0206.css.map": "/bargain_db/static/css/main.031d0206.css.map",
-    "main.23cfebcf.js.map": "/bargain_db/static/js/main.23cfebcf.js.map"
+    "main.6a34de00.js.map": "/bargain_db/static/js/main.6a34de00.js.map"
   },
   "entrypoints": [
     "static/css/main.031d0206.css",
-    "static/js/main.23cfebcf.js"
+    "static/js/main.6a34de00.js"
   ]
 }
