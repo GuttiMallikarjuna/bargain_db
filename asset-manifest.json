@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/bargain_db/static/css/main.031d0206.css",
-    "main.js": "/bargain_db/static/js/main.27b979f9.js",
+    "main.js": "/bargain_db/static/js/main.579ea6a9.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/books.png": "/bargain_db/static/media/books.db4deda039071b241e1e.png",
     "static/media/necklace.webp": "/bargain_db/static/media/necklace.ac8ddad22f8564bbde61.webp",
     "static/media/jewellery-banner.jpg": "/bargain_db/static/media/jewellery-banner.c30cdaf2472e3f6cf9a6.jpg",
     "static/media/women-banner.jpg": "/bargain_db/static/media/women-banner.74f2c0ed9b9f77d8eb2c.jpg",
@@ -21,6 +20,7 @@
     "static/media/jewelry.jpg": "/bargain_db/static/media/jewelry.65baa32bbf6fb389b41e.jpg",
     "static/media/womencarousel.jpg": "/bargain_db/static/media/womencarousel.48a0f360a76adb6e7b04.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/books.jpg": "/bargain_db/static/media/books.0c13d03b861b0641dbce.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/drama.webp": "/bargain_db/static/media/drama.eaa52f10b657ab04f6cf.webp",
     "static/media/ring.jpg": "/bargain_db/static/media/ring.52472dcb03568c6afb91.jpg",
@@ -41,10 +41,10 @@
     "static/media/revicons.woff": "/bargain_db/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/bargain_db/index.html",
     "main.031d0206.css.map": "/bargain_db/static/css/main.031d0206.css.map",
-    "main.27b979f9.js.map": "/bargain_db/static/js/main.27b979f9.js.map"
+    "main.579ea6a9.js.map": "/bargain_db/static/js/main.579ea6a9.js.map"
   },
   "entrypoints": [
     "static/css/main.031d0206.css",
-    "static/js/main.27b979f9.js"
+    "static/js/main.579ea6a9.js"
   ]
 }
